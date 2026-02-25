@@ -3,7 +3,7 @@
 * Avances 1: Entrega del 26/01 [calificado]
 * Corte 1: Entrega del 03/01 (con atraso) [calificado]
 * Avances 2: Entrega del 16/01
-* Corte 2: Vacio
+* Corte 2: Entrega del 25/02 y formularios LOGT de cada integrante respectivos a la entrega
 * Scrum: Vacio
 
 ### Enlaces importantes
